@@ -7,3 +7,4 @@ package.json
 webpack.config.js
 /build/bundles/builder.bundle.js
 /build/bundles/builder.bundle.js.map
+/build/tmp/*
