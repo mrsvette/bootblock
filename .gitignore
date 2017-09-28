@@ -1,0 +1,10 @@
+/assets/*
+/.idea/*
+/build/index.html
+*.log
+/build/elements/bundles/images/*
+package.json
+webpack.config.js
+/build/bundles/builder.bundle.js
+/build/bundles/builder.bundle.js.map
+/build/tmp/*
